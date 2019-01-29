@@ -1,6 +1,6 @@
 # PID_Debug
 基于Qt的PID调试助手  
-release 见 https://github.com/StrangeChen/PID_Debug.git
+release版见 release分支
     
     /**
       ******************************************************************************
